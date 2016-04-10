@@ -11,6 +11,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Operadores aritmeticos", "O
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EtiquetasCuadrosDeTexto", "EtiquetasCuadrosDeTexto\EtiquetasCuadrosDeTexto.vbproj", "{BBB13F37-AB48-4128-803C-17470C5C7770}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Botones", "Botones\Botones.vbproj", "{D4A5E81E-23E4-4E59-A760-3EAB153EBB01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BBB13F37-AB48-4128-803C-17470C5C7770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBB13F37-AB48-4128-803C-17470C5C7770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBB13F37-AB48-4128-803C-17470C5C7770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A5E81E-23E4-4E59-A760-3EAB153EBB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A5E81E-23E4-4E59-A760-3EAB153EBB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A5E81E-23E4-4E59-A760-3EAB153EBB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A5E81E-23E4-4E59-A760-3EAB153EBB01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
