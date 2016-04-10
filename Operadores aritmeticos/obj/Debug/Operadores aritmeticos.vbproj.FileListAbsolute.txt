@@ -1,0 +1,10 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\bin\Debug\Operadores aritmeticos.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\bin\Debug\Operadores aritmeticos.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\bin\Debug\Operadores aritmeticos.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\bin\Debug\Operadores aritmeticos.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores_aritmeticos.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores_aritmeticos.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores aritmeticos.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores aritmeticos.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores aritmeticos.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores aritmeticos\obj\Debug\Operadores aritmeticos.pdb
