@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arrays", "Arrays\Arrays.vbp
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Operadores aritmeticos", "Operadores aritmeticos\Operadores aritmeticos.vbproj", "{CF49FB34-3658-46C6-91A9-15E87EDDE968}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EtiquetasCuadrosDeTexto", "EtiquetasCuadrosDeTexto\EtiquetasCuadrosDeTexto.vbproj", "{BBB13F37-AB48-4128-803C-17470C5C7770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CF49FB34-3658-46C6-91A9-15E87EDDE968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF49FB34-3658-46C6-91A9-15E87EDDE968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF49FB34-3658-46C6-91A9-15E87EDDE968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB13F37-AB48-4128-803C-17470C5C7770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB13F37-AB48-4128-803C-17470C5C7770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB13F37-AB48-4128-803C-17470C5C7770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB13F37-AB48-4128-803C-17470C5C7770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
