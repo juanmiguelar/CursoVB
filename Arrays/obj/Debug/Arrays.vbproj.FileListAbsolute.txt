@@ -1,0 +1,10 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\bin\Debug\Arrays.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\bin\Debug\Arrays.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\bin\Debug\Arrays.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\bin\Debug\Arrays.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Arrays\obj\Debug\Arrays.pdb
