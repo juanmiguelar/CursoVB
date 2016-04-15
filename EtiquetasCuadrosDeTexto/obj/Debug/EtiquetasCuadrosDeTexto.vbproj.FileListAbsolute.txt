@@ -1,0 +1,11 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\bin\Debug\EtiquetasCuadrosDeTexto.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\bin\Debug\EtiquetasCuadrosDeTexto.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\bin\Debug\EtiquetasCuadrosDeTexto.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\bin\Debug\EtiquetasCuadrosDeTexto.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.vbprojResolveAssemblyReference.cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\EtiquetasCuadrosDeTexto\obj\Debug\EtiquetasCuadrosDeTexto.pdb

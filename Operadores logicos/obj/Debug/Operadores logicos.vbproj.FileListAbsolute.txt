@@ -1,0 +1,11 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\bin\Debug\Operadores logicos.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\bin\Debug\Operadores logicos.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\bin\Debug\Operadores logicos.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\bin\Debug\Operadores logicos.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores logicos.vbprojResolveAssemblyReference.cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores_logicos.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores_logicos.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores logicos.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores logicos.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores logicos.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Operadores logicos\obj\Debug\Operadores logicos.pdb

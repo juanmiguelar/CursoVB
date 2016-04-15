@@ -1,0 +1,11 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\bin\Debug\MenuStrip.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\bin\Debug\MenuStrip.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.vbprojResolveAssemblyReference.cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\MenuStrip\obj\Debug\MenuStrip.pdb

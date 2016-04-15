@@ -1,0 +1,10 @@
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\bin\Debug\Botones.exe.config
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\bin\Debug\Botones.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\bin\Debug\Botones.pdb
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\bin\Debug\Botones.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.Form1.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.Resources.resources
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.vbproj.GenerateResource.Cache
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.exe
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.xml
+D:\UCR\InformaticaEmpresarial\I. Ciclo 2016\Lenguajes de aplicaciones comerciales\CursoVB\CursoVB\Botones\obj\Debug\Botones.pdb
